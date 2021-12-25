@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 5px dotted red;
+    background: linear-gradient(purple, blue)
+  }
+  canvas {
+    display: block;
+    margin:auto
+  }
+  
